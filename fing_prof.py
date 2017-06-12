@@ -6,54 +6,38 @@ from BeautifulSoup import *
 url_dir= 'http://fing.uach.mx/facultad/2015/09/24/directorio_docente/'
 url_main = 'http://fing.uach.mx'
 html = urllib.urlopen(url_dir).read()
-urlText = []
 
-class parseText(HTMLParser.HTMLParser):
-	def handle_data(self, data):
-		if data != '\n':
-			urlText.append(data)
+soup_dir = BeautifulSoup(html)
+tags = soup_dir('a')
 
-lParser = parseText()
-lParser.feed(html)
-lParser.close()
 
-urlSet = set(urlText)
-urlText = list(urlSet)
-print urlText
-for item in urlText:
-	print item
+most_prof = []
+for tag in tags:
+	url = tag.get('href')
+	try:
+		num = re.findall('[0-9]{4}', url)
+		if url.startswith('/facultad') and int(num[0]) > 2014:
+			most_prof.append(url)
+	except:
+		continue
 
-# soup_dir = BeautifulSoup(html)
-# tags = soup_dir('a')
-#
-#
-# most_prof = []
-# for tag in tags:
-# 	url = tag.get('href')
-# 	try:
-# 		num = re.findall('[0-9]{4}', url)
-# 		if url.startswith('/facultad') and int(num[0]) > 2014:
-# 			most_prof.append(url)
-# 	except:
-# 		continue
-#
-# file = open("divtest.txt", "w")
-# for prof in most_prof:
-# 	url_prof = url_main + str(prof)
-# 	html_prof = urllib.urlopen(url_prof).read()
-# 	soup_prof = BeautifulSoup(html_prof)
-# 	tags1 = soup_prof("li")
-# 	tags2 = soup_prof("div")
-# 	tags3 = soup_prof("a")
-# 	list_prof = []
-# 	list_mat = []
-# 	for tag in tags2:
-# 		finder = re.compile(r'\bInteligencia\b| \balgoritmos\b | \bcomputadora\b', flags = re.I | re.X)
-# 		subjects = finder.findall(str(tag))
-# 		if subjects:
-# 			file.write(str(prof) + '\n' + str(tag) + '\n'+'\n')
-#
-# file.close()
+file = open("divtest.txt", "w")
+for prof in most_prof:
+	url_prof = url_main + str(prof)
+	html_prof = urllib.urlopen(url_prof).read()
+	soup_prof = BeautifulSoup(html_prof)
+	tags1 = soup_prof("li")
+	tags2 = soup_prof("div")
+	tags3 = soup_prof("a")
+	list_prof = []
+	list_mat = []
+	for tag in tags2:
+		finder = re.compile(r'\bInteligencia\b| \balgoritmos\b | \bcomputadora\b', flags = re.I | re.X)
+		subjects = finder.findall(str(tag))
+		if subjects:
+			file.write(str(prof) + '\n' + str(tag) + '\n'+'\n')
+
+file.close()
 
 
 # tags = suop_prof('li')
