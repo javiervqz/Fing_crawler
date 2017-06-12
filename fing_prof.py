@@ -17,11 +17,8 @@ lParser = parseText()
 lParser.feed(html)
 lParser.close()
 
-urlSet = set(urlText)
-urlText = list(urlSet)
-print urlText
-for item in urlText:
-	print item
+
+
 
 # soup_dir = BeautifulSoup(html)
 # tags = soup_dir('a')
