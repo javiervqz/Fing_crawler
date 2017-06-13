@@ -12,7 +12,11 @@ links = doc.findall('.//div[@id="listalinks"]/p/a')
 for link in links:
 	prof_name = link.text_content()
 	profurl = url_main+link.get("href")
-	
+	html = urllib.urlopen(profurl).read()
+	soup_prof = bs.BeautifulSoup(html, 'lxml')
+
+	for info in soup_prof.find_all('div'):
+		print (info.text)
 
 
 
