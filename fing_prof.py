@@ -2,6 +2,7 @@ import urllib
 from lxml.html import parse
 import bs4 as bs
 import sys
+import os
 
 
 
@@ -10,11 +11,14 @@ url_main = 'http://fing.uach.mx'
 parsed = parse(url_dir)
 doc = parsed.getroot()
 links = doc.findall('.//div[@id="listalinks"]/p/a')
+output_dir = "Professors"
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
 
 i = 1.0
 for link in links:
 	prof_name = link.text_content()
-	file = open(prof_name+".txt", "w")
+	file = open(output_dir/prof_name+".html", "w")
 	profurl = url_main+link.get("href")
 	html = urllib.urlopen(profurl).read()
 	soup_prof = bs.BeautifulSoup(html, 'lxml')
