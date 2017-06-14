@@ -9,6 +9,7 @@ url_main = 'http://fing.uach.mx'
 parsed = parse(url_dir)
 doc = parsed.getroot()
 links = doc.findall('.//div[@id="listalinks"]/p/a')
+file = open("divtest.txt", "w")
 for link in links:
 	prof_name = link.text_content()
 	profurl = url_main+link.get("href")
@@ -17,7 +18,7 @@ for link in links:
 
 	for info in soup_prof.findAll("div", attrs ={'class' : None}):
 		print info.div
-
+file.close()
 
 
 # 	parsed = parse(profurl)
