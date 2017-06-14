@@ -1,0 +1,25 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a></a></div>
+<div>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IA/2011/09/29/540%20-%20SISTEMAS%20OPERATIVOS%20I.pdf">Sistemas operativos I</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IA/2011/09/29/640%20-%20SISTEMAS%20OPERATIVOS%20II.pdf"> Sistemas operativos II</a></p>
+<p> </p>
+</div>
+</div> 
+I.S.C. Carlos Eduardo García Vargas<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.S.C. Carlos Eduardo García Vargas<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.S.C. Carlos Eduardo García Vargas<div>tel. (614) 442 9500</div> 
+I.S.C. Carlos Eduardo García Vargas<div><br/></div> 
+I.S.C. Carlos Eduardo García Vargas<div><a></a></div> 
+I.S.C. Carlos Eduardo García Vargas<div>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IA/2011/09/29/540%20-%20SISTEMAS%20OPERATIVOS%20I.pdf">Sistemas operativos I</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IA/2011/09/29/640%20-%20SISTEMAS%20OPERATIVOS%20II.pdf"> Sistemas operativos II</a></p>
+<p> </p>
+</div> 
+I.S.C. Carlos Eduardo García Vargas

@@ -1,0 +1,19 @@
+<div>
+<h4><strong>⁞Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/ITP/2013/05/13/GESTORIA%20EMPRESARIAL%20II.pdf">Gestoría empresarial II</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/OC/2011/10/25/CONTABILIDAD.pdf">Contabilidad</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/510%20-%20TALLER%20EMPRENDEDOR.pdf">Taller emprendedor I</a><br/></div>
+</div> 
+L.A. Dulce Carolina Minor Ávila<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+L.A. Dulce Carolina Minor Ávila<div>Chihuahua, Chih., C.P. 31125, </div> 
+L.A. Dulce Carolina Minor Ávila<div>tel. (614) 442 9500</div> 
+L.A. Dulce Carolina Minor Ávila<div><br/></div> 
+L.A. Dulce Carolina Minor Ávila<div><a href="http://fing.uach.mx/licenciaturas/ITP/2013/05/13/GESTORIA%20EMPRESARIAL%20II.pdf">Gestoría empresarial II</a></div> 
+L.A. Dulce Carolina Minor Ávila<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/OC/2011/10/25/CONTABILIDAD.pdf">Contabilidad</a></div> 
+L.A. Dulce Carolina Minor Ávila<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/510%20-%20TALLER%20EMPRENDEDOR.pdf">Taller emprendedor I</a><br/></div> 
+L.A. Dulce Carolina Minor Ávila

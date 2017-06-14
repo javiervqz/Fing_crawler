@@ -1,0 +1,33 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Algebra%20lineal.pdf">Álgebra lineal</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/LABORATORIO%20DE%20DIN%C3%81MICA.pdf">Laboratorio de dinámica</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/LABORATORIO%20DE%20MECANICA%20DE%20MATERIALES%20II.pdf">Laboratorio de mecánica de materiales II</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/MEC%C3%81NICA%20DE%20MATERIALES.pdf">Mecánica de materiales I</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/MECANICA%20DE%20MATERIALES%20II.pdf">Mecánica de materiales II</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/PROGRAMA%20DE%20LABORATORIO%20DE%20ESTATICA_c.pdf">Laboratorio de estática</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2013/05/27/LABORATORIO%20DE%20MEC%C3%81NICA%20DE%20MATERIALES.pdf">Laboratorio de mecanica de materiales I</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/CB/2011/10/25/DIN%C3%81MICA.pdf">Dinámica</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/OC/2011/10/25/ESTATICAS.pdf">Estática</a></div>
+<div><br/></div>
+</div> 
+I.M. Juan Armando Márquez Enríquez<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.M. Juan Armando Márquez Enríquez<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.M. Juan Armando Márquez Enríquez<div>tel. (614) 442 9500</div> 
+I.M. Juan Armando Márquez Enríquez<div><br/></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Algebra%20lineal.pdf">Álgebra lineal</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/LABORATORIO%20DE%20DIN%C3%81MICA.pdf">Laboratorio de dinámica</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/LABORATORIO%20DE%20MECANICA%20DE%20MATERIALES%20II.pdf">Laboratorio de mecánica de materiales II</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/MEC%C3%81NICA%20DE%20MATERIALES.pdf">Mecánica de materiales I</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/MECANICA%20DE%20MATERIALES%20II.pdf">Mecánica de materiales II</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/PROGRAMA%20DE%20LABORATORIO%20DE%20ESTATICA_c.pdf">Laboratorio de estática</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/IA/2013/05/27/LABORATORIO%20DE%20MEC%C3%81NICA%20DE%20MATERIALES.pdf">Laboratorio de mecanica de materiales I</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/CB/2011/10/25/DIN%C3%81MICA.pdf">Dinámica</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/OC/2011/10/25/ESTATICAS.pdf">Estática</a></div> 
+I.M. Juan Armando Márquez Enríquez<div><br/></div> 
+I.M. Juan Armando Márquez Enríquez

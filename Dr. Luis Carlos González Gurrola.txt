@@ -1,0 +1,68 @@
+<div>Maestría en Vías Terrestres: Colaborador</div> 
+Dr. Luis Carlos González Gurrola<div>
+<h4>INFORMACIÓN DE CONTACTO:</h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500.</div>
+<div><br/></div>
+<h4>ÁREAS DE INTERÉS:</h4>
+<ul>
+<li>Inteligencia artificial</li>
+<li>Computación</li>
+</ul>
+<h4>EDUCACIÓN</h4>
+<div>Doctorado, University of North Carolina at Charlotte (2011)</div>
+<div>Maestría, centro de Investigación Científica y de Educación Superior de Ensenada, Baja California (2004)</div>
+<div>, Instituto Tecnológico de Durango (2002)</div>
+<h4>DIRECCIONES DE TESIS MAESTRÍA:</h4>
+<p>2015, Identificación automática de irregularidades en vías de transito: Un enfoque de aprendizaje computacional, Ricardo Manuel Carlos Loya,</p>
+<p>2015, Metaheurísticas para el problema de plegamiento de proteínas, Emmanuel Acosta de León,</p>
+<p>2015, Optimización de hiperparámetros de una red neuronal por medio de PSO para series de tiempo, Christopher Demián Gutiérrez M.</p>
+<p>Diseño y desarrollo de un robot autónomo, Marco Antonio Sanchez Vazquez,</p>
+<p>Modelación por medio de programación lineal entera para el problema de VRP de transporte de personal, Eduardo Aguirre Zuñiga</p>
+<p>Un algoritmo de caminata aleatoria para un problema de calendarizacion de horarios, Ing. Fausto Barrera Avila,</p>
+<h4>DIRECCIONES DE TESIS LICENCIATURA:</h4>
+<p>Algoritmo GRASP y Path Relinking para un problema de optimización combinatoria en la universidad, Angel Omar Flores Olivas,</p>
+<p>Algoritmos de aprendizaje computacional en dispositivos móviles (con Mención Honorífica), Ricardo Moreno Nieto,</p>
+<p>Modelado matemático del problema de transporte de personal en una industria maquiladora, Eduardo Aguirre Zuniga.</p>
+<p>Predicción de series de tiempo utilizando redes neuronales, Jesús Manuel Lozano Saucedo,</p>
+<p>Problemario para la clase de optativa II (reconocimiento de patrones) de la carrera de Ingeniería Matemática, Victor Derma Prieto</p>
+<p>Programación genética aplicada a problemas de ingeniería, Manuel Servando Flores Chacón.</p>
+<p>Un algoritmo genetico para un problema de rutas de transporte (VRP), Ivan Castorena Escapite.</p>
+<h4>PUBLICACIONES:</h4>
+<p>2015, A VIRTUAL PEBBLE GAME TO ENSEMBLE AVERAGE GRAPH RIGIDITY (ISSN:1748-7188), Algorithms for Molecular Biology</p>
+<p>2014, PCHCT: A TOOL TO MONITOR CHILD WHEREABOUTS, Ambient Assisted Living and Daily Activities Lecture Notes in Computer Science</p>
+<p>2014, IDENTIFYING ROADWAY SURFACE DISRUPTIONS BASED ON ACCELEROMETER PATTERNS. ISSN :1548-0992, Latin America Transactions, IEEE</p>
+<p>2013, TENDENCIAS DE PROCESAMIENTO COMPUTACIONAL: BIOINFORMATICA Y COMPUTO UBICUO, TECNOCIENCIA</p>
+<p>2012, CALCULATING ENSEMBLE AVERAGED DESCRIPTIONS OF PROTEIN RIGIDITY WITHOUT SAMPLING, EISSN:1932-6203, PLoS ONE</p>
+<p>2009, MOLECULAR DIVERSITY OF A NORTH CAROLINA WASTEWATER TREATMENT PLANT AS REVEALED BY PYROSEQUENCING, ISSN:0099-2240, Journal of Applied and Environmental Microbiology.</p>
+<p>2007, SEQUENCING BY HYBRIDIZATION: AN ENHANCED CROSSOVER OPERATOR FOR A HYBRID GENETIC ALGORITHM, ISSN: 1381-1231, Journal of Heuristics</p>
+<h4>CURSOS IMPARTIDOS:</h4>
+<div>
+<div><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/Redes%20Neuronales.pdf" title="Optativa: Redes neuronales">Optativa: Redes neuronales</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/Reconocimiento%20de%20Patrones.pdf" title="Optativa: Reconocimiento de patrones">Optativa: Reconocimiento de patrones </a></div>
+<div><a href="http://fing.uach.mx/posgrado/2012/06/12/Reconocimiento%20de%20Patrones%20%28MICTS23%29.pdf">Reconocimiento de patrones</a></div>
+<div><a href="http://fing.uach.mx/posgrado/2012/06/12/Sistemas%20L%C3%B3gicos%20%28MICTS25%29.pdf">Sistemas lógicos</a></div>
+<div>Tópicos selectos de I.A.</div>
+</div>
+</div> 
+Dr. Luis Carlos González Gurrola<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+Dr. Luis Carlos González Gurrola<div>Chihuahua, Chih., C.P. 31125, </div> 
+Dr. Luis Carlos González Gurrola<div>tel. (614) 442 9500.</div> 
+Dr. Luis Carlos González Gurrola<div><br/></div> 
+Dr. Luis Carlos González Gurrola<div>Doctorado, University of North Carolina at Charlotte (2011)</div> 
+Dr. Luis Carlos González Gurrola<div>Maestría, centro de Investigación Científica y de Educación Superior de Ensenada, Baja California (2004)</div> 
+Dr. Luis Carlos González Gurrola<div>, Instituto Tecnológico de Durango (2002)</div> 
+Dr. Luis Carlos González Gurrola<div>
+<div><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/Redes%20Neuronales.pdf" title="Optativa: Redes neuronales">Optativa: Redes neuronales</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/Reconocimiento%20de%20Patrones.pdf" title="Optativa: Reconocimiento de patrones">Optativa: Reconocimiento de patrones </a></div>
+<div><a href="http://fing.uach.mx/posgrado/2012/06/12/Reconocimiento%20de%20Patrones%20%28MICTS23%29.pdf">Reconocimiento de patrones</a></div>
+<div><a href="http://fing.uach.mx/posgrado/2012/06/12/Sistemas%20L%C3%B3gicos%20%28MICTS25%29.pdf">Sistemas lógicos</a></div>
+<div>Tópicos selectos de I.A.</div>
+</div> 
+Dr. Luis Carlos González Gurrola<div><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/Redes%20Neuronales.pdf" title="Optativa: Redes neuronales">Optativa: Redes neuronales</a></div> 
+Dr. Luis Carlos González Gurrola<div><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/Reconocimiento%20de%20Patrones.pdf" title="Optativa: Reconocimiento de patrones">Optativa: Reconocimiento de patrones </a></div> 
+Dr. Luis Carlos González Gurrola<div><a href="http://fing.uach.mx/posgrado/2012/06/12/Reconocimiento%20de%20Patrones%20%28MICTS23%29.pdf">Reconocimiento de patrones</a></div> 
+Dr. Luis Carlos González Gurrola<div><a href="http://fing.uach.mx/posgrado/2012/06/12/Sistemas%20L%C3%B3gicos%20%28MICTS25%29.pdf">Sistemas lógicos</a></div> 
+Dr. Luis Carlos González Gurrola<div>Tópicos selectos de I.A.</div> 
+Dr. Luis Carlos González Gurrola

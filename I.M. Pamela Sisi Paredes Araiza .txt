@@ -1,0 +1,17 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/CB/2011/10/25/C%C3%81LCULO%20VECTORIAL.pdf">Cálculo vectorial</a></div>
+<div><br/></div>
+</div> 
+I.M. Pamela Sisi Paredes Araiza <div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.M. Pamela Sisi Paredes Araiza <div>Chihuahua, Chih., C.P. 31125, </div> 
+I.M. Pamela Sisi Paredes Araiza <div>tel. (614) 442 9500</div> 
+I.M. Pamela Sisi Paredes Araiza <div><br/></div> 
+I.M. Pamela Sisi Paredes Araiza <div><a href="http://fing.uach.mx/licenciaturas/IA/materias/CB/2011/10/25/C%C3%81LCULO%20VECTORIAL.pdf">Cálculo vectorial</a></div> 
+I.M. Pamela Sisi Paredes Araiza <div><br/></div> 
+I.M. Pamela Sisi Paredes Araiza 

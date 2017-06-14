@@ -1,0 +1,23 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IG/materias/PlanC/CSH/2011/10/24/815-LEGISLACIONES%20EN%20MINERIA.pdf">Normatividad minera</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IG/materias/PlanC/OC/2011/10/24/206-ADMINISTRACION%20206.pdf">Administración</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IMM/materias/CSH/2011/10/14/323.pdf">Legislación minera</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IMM/materias/IA/2011/10/14/914.pdf">Seguridad industrial</a></div>
+<div><br/></div>
+</div> 
+I.M. Alfredo Ornelas Hernández<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.M. Alfredo Ornelas Hernández<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.M. Alfredo Ornelas Hernández<div>tel. (614) 442 9500</div> 
+I.M. Alfredo Ornelas Hernández<div><br/></div> 
+I.M. Alfredo Ornelas Hernández<div><a href="http://fing.uach.mx/licenciaturas/IG/materias/PlanC/CSH/2011/10/24/815-LEGISLACIONES%20EN%20MINERIA.pdf">Normatividad minera</a></div> 
+I.M. Alfredo Ornelas Hernández<div><a href="http://fing.uach.mx/licenciaturas/IG/materias/PlanC/OC/2011/10/24/206-ADMINISTRACION%20206.pdf">Administración</a></div> 
+I.M. Alfredo Ornelas Hernández<div><a href="http://fing.uach.mx/licenciaturas/IMM/materias/CSH/2011/10/14/323.pdf">Legislación minera</a></div> 
+I.M. Alfredo Ornelas Hernández<div><a href="http://fing.uach.mx/licenciaturas/IMM/materias/IA/2011/10/14/914.pdf">Seguridad industrial</a></div> 
+I.M. Alfredo Ornelas Hernández<div><br/></div> 
+I.M. Alfredo Ornelas Hernández

@@ -1,0 +1,32 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IB/2011/09/29/315%20-%20Lenguajes%20Programacion%201.pdf" title="Lenguajes de programación I">Lenguajes de programación I</a> </p>
+<div><a></a></div>
+<div>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IB/2011/09/30/415%20-%20lenguages%20de%20programacion%20II.pdf" title="Lenguajes de programación II">Lenguajes de programación II</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/CSH/2011/09/29/519%20-%20LEGISLACI_N%20DE%20LA%20INFORMATICA.pdf" title="Legislación de la informática">Legislación de la informática</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IA/2011/09/29/313%20-%20ARQUITECTURA%20DE%20COMPUTADORAS%20I.pdf" title="Arquitectura de computadoras I">Arquitectura de computadoras I</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/2014/03/25/ARQUITECTURA%20DE%20COMPUTADORAS.pdf" title="Arquitectura de computadoras">Arquitectura de computadoras</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Dise%F1o%20de%20alg%20II.pdf" title="Diseño de algoritmos y su programación II">Diseño de algoritmos y su programación II </a></p>
+<p> </p>
+</div>
+</div> 
+I.S.C. Jesús Miguel Domínguez Domínguez<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.S.C. Jesús Miguel Domínguez Domínguez<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.S.C. Jesús Miguel Domínguez Domínguez<div>tel. (614) 442 9500</div> 
+I.S.C. Jesús Miguel Domínguez Domínguez<div><br/></div> 
+I.S.C. Jesús Miguel Domínguez Domínguez<div><a></a></div> 
+I.S.C. Jesús Miguel Domínguez Domínguez<div>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IB/2011/09/30/415%20-%20lenguages%20de%20programacion%20II.pdf" title="Lenguajes de programación II">Lenguajes de programación II</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/CSH/2011/09/29/519%20-%20LEGISLACI_N%20DE%20LA%20INFORMATICA.pdf" title="Legislación de la informática">Legislación de la informática</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IA/2011/09/29/313%20-%20ARQUITECTURA%20DE%20COMPUTADORAS%20I.pdf" title="Arquitectura de computadoras I">Arquitectura de computadoras I</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/2014/03/25/ARQUITECTURA%20DE%20COMPUTADORAS.pdf" title="Arquitectura de computadoras">Arquitectura de computadoras</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Dise%F1o%20de%20alg%20II.pdf" title="Diseño de algoritmos y su programación II">Diseño de algoritmos y su programación II </a></p>
+<p> </p>
+</div> 
+I.S.C. Jesús Miguel Domínguez Domínguez

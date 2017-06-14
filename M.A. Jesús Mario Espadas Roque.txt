@@ -1,0 +1,36 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500.</div>
+</div> 
+M.A. Jesús Mario Espadas Roque<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.A. Jesús Mario Espadas Roque<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.A. Jesús Mario Espadas Roque<div>tel. (614) 442 9500.</div> 
+M.A. Jesús Mario Espadas Roque<div><br/></div> 
+M.A. Jesús Mario Espadas Roque<div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/CSH/2011/09/29/533%20-%20DESARROLLO%20ORGANIZACIONAL.pdf" title="Desarrollo organizacional">Desarrollo organizacional</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/833%20-%20Planeacion%20Financiera.pdf" title="Planeación financiera">Planeación financiera</a> </div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/938%20-%20SISTEMAS%20DE%20INFORMACI%C3%93N%20GERENCIAL%20.pdf" title="Sistemas de información gerencial">Sistemas de información gerencial</a></div>
+<div>Optativa: Sistema de información empresarial </div>
+<div>E-commerce e integradores de la cadena de valor</div>
+<div>Sistemas de pago y tramites electrónicos</div>
+</div>
+</div> 
+M.A. Jesús Mario Espadas Roque<div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/CSH/2011/09/29/533%20-%20DESARROLLO%20ORGANIZACIONAL.pdf" title="Desarrollo organizacional">Desarrollo organizacional</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/833%20-%20Planeacion%20Financiera.pdf" title="Planeación financiera">Planeación financiera</a> </div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/938%20-%20SISTEMAS%20DE%20INFORMACI%C3%93N%20GERENCIAL%20.pdf" title="Sistemas de información gerencial">Sistemas de información gerencial</a></div>
+<div>Optativa: Sistema de información empresarial </div>
+<div>E-commerce e integradores de la cadena de valor</div>
+<div>Sistemas de pago y tramites electrónicos</div>
+</div> 
+M.A. Jesús Mario Espadas Roque<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/CSH/2011/09/29/533%20-%20DESARROLLO%20ORGANIZACIONAL.pdf" title="Desarrollo organizacional">Desarrollo organizacional</a></div> 
+M.A. Jesús Mario Espadas Roque<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/833%20-%20Planeacion%20Financiera.pdf" title="Planeación financiera">Planeación financiera</a> </div> 
+M.A. Jesús Mario Espadas Roque<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/938%20-%20SISTEMAS%20DE%20INFORMACI%C3%93N%20GERENCIAL%20.pdf" title="Sistemas de información gerencial">Sistemas de información gerencial</a></div> 
+M.A. Jesús Mario Espadas Roque<div>Optativa: Sistema de información empresarial </div> 
+M.A. Jesús Mario Espadas Roque<div>E-commerce e integradores de la cadena de valor</div> 
+M.A. Jesús Mario Espadas Roque<div>Sistemas de pago y tramites electrónicos</div> 
+M.A. Jesús Mario Espadas Roque

@@ -1,0 +1,22 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a></a></div>
+<p><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/IA808%20-%20CONCRETO%20I.pdf" title="Concreto I">Concreto I</a> </p>
+<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/EST05%20-%20CONCRETO%20II.pdf" title="Concreto II">Concreto II</a></p>
+</div>
+</div> 
+I.C. Guillermo Díaz Murillo<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.C. Guillermo Díaz Murillo<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.C. Guillermo Díaz Murillo<div>tel. (614) 442 9500</div> 
+I.C. Guillermo Díaz Murillo<div><br/></div> 
+I.C. Guillermo Díaz Murillo<div><a></a></div> 
+I.C. Guillermo Díaz Murillo<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/EST05%20-%20CONCRETO%20II.pdf" title="Concreto II">Concreto II</a></p>
+</div> 
+I.C. Guillermo Díaz Murillo

@@ -1,0 +1,19 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/ELECTRICIDAD%20Y%20MAGNETISMO.pdf">Electricidad y magnetismo</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/IA703%20-%20INSTALACIONES%20ELECTRICAS%20Y%20TERMICAS.pdf">Instalaciones eléctricas y térmicas</a></div>
+<div><br/></div>
+</div> 
+I.E. David Armando Sías Casas<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.E. David Armando Sías Casas<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.E. David Armando Sías Casas<div>tel. (614) 442 9500</div> 
+I.E. David Armando Sías Casas<div><br/></div> 
+I.E. David Armando Sías Casas<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/ELECTRICIDAD%20Y%20MAGNETISMO.pdf">Electricidad y magnetismo</a></div> 
+I.E. David Armando Sías Casas<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/IA703%20-%20INSTALACIONES%20ELECTRICAS%20Y%20TERMICAS.pdf">Instalaciones eléctricas y térmicas</a></div> 
+I.E. David Armando Sías Casas<div><br/></div> 
+I.E. David Armando Sías Casas

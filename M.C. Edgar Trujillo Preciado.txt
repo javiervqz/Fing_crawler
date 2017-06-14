@@ -1,0 +1,23 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500.</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/REDES%20II%20%20.pdf" title="Redes II">Redes II</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Sistemas%20Operativos.pdf" title="Sistemas operativos">Sistemas operativos</a> </div>
+<div>Software libre y sus aplicaciones</div>
+<div>Fundamentos de redes inalámbricas</div>
+<div><br/></div>
+</div> 
+M.C. Edgar Trujillo Preciado<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.C. Edgar Trujillo Preciado<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.C. Edgar Trujillo Preciado<div>tel. (614) 442 9500.</div> 
+M.C. Edgar Trujillo Preciado<div><br/></div> 
+M.C. Edgar Trujillo Preciado<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/REDES%20II%20%20.pdf" title="Redes II">Redes II</a></div> 
+M.C. Edgar Trujillo Preciado<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Sistemas%20Operativos.pdf" title="Sistemas operativos">Sistemas operativos</a> </div> 
+M.C. Edgar Trujillo Preciado<div>Software libre y sus aplicaciones</div> 
+M.C. Edgar Trujillo Preciado<div>Fundamentos de redes inalámbricas</div> 
+M.C. Edgar Trujillo Preciado<div><br/></div> 
+M.C. Edgar Trujillo Preciado

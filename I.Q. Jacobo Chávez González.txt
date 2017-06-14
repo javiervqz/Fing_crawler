@@ -1,0 +1,23 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a></a></div>
+<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/LABORATORIO%20DE%20INGENIER%C3%8DA%20SANITARIA.pdf" title="Laboratorio de ingeniería sanitaria">Laboratorio de ingeniería sanitaria</a></p>
+<p> </p>
+</div>
+</div> 
+I.Q. Jacobo Chávez González<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.Q. Jacobo Chávez González<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.Q. Jacobo Chávez González<div>tel. (614) 442 9500</div> 
+I.Q. Jacobo Chávez González<div><br/></div> 
+I.Q. Jacobo Chávez González<div><a></a></div> 
+I.Q. Jacobo Chávez González<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/LABORATORIO%20DE%20INGENIER%C3%8DA%20SANITARIA.pdf" title="Laboratorio de ingeniería sanitaria">Laboratorio de ingeniería sanitaria</a></p>
+<p> </p>
+</div> 
+I.Q. Jacobo Chávez González

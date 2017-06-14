@@ -1,0 +1,23 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a></a></div>
+<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IA/materias/2011/10/25/CALCULO%20DIFERENCIAL%20E%20INTEGRAL.pdf">Cálculo diferencial e integral</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/IA/materias/OC/2011/10/25/CALCULO%20APLICADO.pdf">Cálculo aplicado</a> </p>
+</div>
+</div> 
+M.C. Claudia Annette Fernández Pérez<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.C. Claudia Annette Fernández Pérez<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.C. Claudia Annette Fernández Pérez<div>tel. (614) 442 9500</div> 
+M.C. Claudia Annette Fernández Pérez<div><br/></div> 
+M.C. Claudia Annette Fernández Pérez<div><a></a></div> 
+M.C. Claudia Annette Fernández Pérez<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IA/materias/2011/10/25/CALCULO%20DIFERENCIAL%20E%20INTEGRAL.pdf">Cálculo diferencial e integral</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/IA/materias/OC/2011/10/25/CALCULO%20APLICADO.pdf">Cálculo aplicado</a> </p>
+</div> 
+M.C. Claudia Annette Fernández Pérez

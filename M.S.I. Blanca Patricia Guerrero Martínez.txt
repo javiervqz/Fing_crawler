@@ -1,0 +1,21 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/PRUEBAS%20DE%20SW%20.pdf">Pruebas de software</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IB/2011/09/29/215%20-%20Dise%C3%B1o%20de%20Algoritmos.pdf">Diseño de algoritmos</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Matem%E1ticas%20Discretas.pdf">Matemáticas discretas</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Dise%F1o%20de%20algortimos%20I.pdff">Diseño de algoritmos y su programación</a></div>
+</div> 
+M.S.I. Blanca Patricia Guerrero Martínez<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.S.I. Blanca Patricia Guerrero Martínez<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.S.I. Blanca Patricia Guerrero Martínez<div>tel. (614) 442 9500</div> 
+M.S.I. Blanca Patricia Guerrero Martínez<div><br/></div> 
+M.S.I. Blanca Patricia Guerrero Martínez<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/PRUEBAS%20DE%20SW%20.pdf">Pruebas de software</a></div> 
+M.S.I. Blanca Patricia Guerrero Martínez<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IB/2011/09/29/215%20-%20Dise%C3%B1o%20de%20Algoritmos.pdf">Diseño de algoritmos</a></div> 
+M.S.I. Blanca Patricia Guerrero Martínez<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Matem%E1ticas%20Discretas.pdf">Matemáticas discretas</a></div> 
+M.S.I. Blanca Patricia Guerrero Martínez<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Dise%F1o%20de%20algortimos%20I.pdff">Diseño de algoritmos y su programación</a></div> 
+M.S.I. Blanca Patricia Guerrero Martínez

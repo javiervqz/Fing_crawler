@@ -1,0 +1,19 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/admon%20del%20proc%20de%20SW.pdf">Administración del proceso del software</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/optativa%20OPSW21%20Top%20SW%20I.pdf">Optativa: Tópicos selectos de software</a></div>
+<div><br/></div>
+</div> 
+M.A.T.I. Eduardo Ortiz Natividad<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.A.T.I. Eduardo Ortiz Natividad<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.A.T.I. Eduardo Ortiz Natividad<div>tel. (614) 442 9500</div> 
+M.A.T.I. Eduardo Ortiz Natividad<div><br/></div> 
+M.A.T.I. Eduardo Ortiz Natividad<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/admon%20del%20proc%20de%20SW.pdf">Administración del proceso del software</a></div> 
+M.A.T.I. Eduardo Ortiz Natividad<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/optativa%20OPSW21%20Top%20SW%20I.pdf">Optativa: Tópicos selectos de software</a></div> 
+M.A.T.I. Eduardo Ortiz Natividad<div><br/></div> 
+M.A.T.I. Eduardo Ortiz Natividad

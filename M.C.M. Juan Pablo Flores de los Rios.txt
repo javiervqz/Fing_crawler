@@ -1,0 +1,27 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a></a></div>
+<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/METALURGIA.pdf">Metalurgia</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/OPITP4%20-%20Optativa%20Termodin%C3%A1mica.pdf">Optativa: Termodinámica</a> </p>
+<p>Laboratorio de metalurgia </p>
+<p><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/CB401%20-%20C%C3%A1lculo%20Vectorial.pdf">Cálculo vectorial</a> </p>
+</div>
+</div> 
+M.C.M. Juan Pablo Flores de los Rios<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.C.M. Juan Pablo Flores de los Rios<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.C.M. Juan Pablo Flores de los Rios<div>tel. (614) 442 9500</div> 
+M.C.M. Juan Pablo Flores de los Rios<div><br/></div> 
+M.C.M. Juan Pablo Flores de los Rios<div><a></a></div> 
+M.C.M. Juan Pablo Flores de los Rios<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/METALURGIA.pdf">Metalurgia</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/OPITP4%20-%20Optativa%20Termodin%C3%A1mica.pdf">Optativa: Termodinámica</a> </p>
+<p>Laboratorio de metalurgia </p>
+<p><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/CB401%20-%20C%C3%A1lculo%20Vectorial.pdf">Cálculo vectorial</a> </p>
+</div> 
+M.C.M. Juan Pablo Flores de los Rios

@@ -1,0 +1,29 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<p> </p>
+<div>
+<p><strong>Cursos impartidos:</strong></p>
+</div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IB/2011/10/03/727%20-%20Simulacion%20de%20sistemas.pdf">Simulación de sistemas</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/2013/10/18/748%20-%20AN%C3%81LISIS%20DE%20SISTEMAS%20LINEALES.pdf">Análisis de sistemas lineales</a></div>
+<p> </p>
+<div>
+<p><br/></p>
+</div>
+</div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos<div>Chihuahua, Chih., C.P. 31125, </div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos<div>tel. (614) 442 9500</div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos<div>
+<p><strong>Cursos impartidos:</strong></p>
+</div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IB/2011/10/03/727%20-%20Simulacion%20de%20sistemas.pdf">Simulación de sistemas</a></div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/2013/10/18/748%20-%20AN%C3%81LISIS%20DE%20SISTEMAS%20LINEALES.pdf">Análisis de sistemas lineales</a></div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos<div>
+<p><br/></p>
+</div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos<div><br/></div> 
+Dr. Pedro Rafael Acosta Cano de los Ríos

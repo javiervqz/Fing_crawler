@@ -1,0 +1,21 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/25/CS101%20-%20C%C3%A1lculo%20Superior.pdf">Cálculo superior</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/25/CS301%20-%20EDO.pdf">Ecuaciones diferenciales ordinarias</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/25/SH502%20-%20Did%C3%A1ctica%20General.pdf">Didáctica general</a></div>
+<div><br/></div>
+</div> 
+D.PH. Velia Pérez González<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+D.PH. Velia Pérez González<div>Chihuahua, Chih., C.P. 31125, </div> 
+D.PH. Velia Pérez González<div>tel. (614) 442 9500</div> 
+D.PH. Velia Pérez González<div><br/></div> 
+D.PH. Velia Pérez González<div><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/25/CS101%20-%20C%C3%A1lculo%20Superior.pdf">Cálculo superior</a></div> 
+D.PH. Velia Pérez González<div><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/25/CS301%20-%20EDO.pdf">Ecuaciones diferenciales ordinarias</a></div> 
+D.PH. Velia Pérez González<div><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/25/SH502%20-%20Did%C3%A1ctica%20General.pdf">Didáctica general</a></div> 
+D.PH. Velia Pérez González<div><br/></div> 
+D.PH. Velia Pérez González

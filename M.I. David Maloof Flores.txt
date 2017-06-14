@@ -1,0 +1,19 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/TECNOLOGIAS%20WEB.pdf">Tecnologías web</a></div>
+<div>Practicum</div>
+<div><br/></div>
+</div> 
+M.I. David Maloof Flores<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.I. David Maloof Flores<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.I. David Maloof Flores<div>tel. (614) 442 9500</div> 
+M.I. David Maloof Flores<div><br/></div> 
+M.I. David Maloof Flores<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/TECNOLOGIAS%20WEB.pdf">Tecnologías web</a></div> 
+M.I. David Maloof Flores<div>Practicum</div> 
+M.I. David Maloof Flores<div><br/></div> 
+M.I. David Maloof Flores

@@ -1,0 +1,25 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IST/materias/OC/2011/10/07/520.pdf">Programación aplicada I</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IST/materias/IA/2011/10/10/423.pdf">Fotogrametría digital</a></div>
+<div>Prácticas de fotogrametría digital</div>
+<div><a href="http://fing.uach.mx/licenciaturas/IST/materias/IA/2011/10/10/627.pdf">Prácticas principios de geodesia geométrica</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IST/materias/IA/2011/10/10/724.pdf">Prácticas geodesia aplicada</a></div>
+<div><br/></div>
+</div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div>tel. (614) 442 9500</div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div><br/></div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div><a href="http://fing.uach.mx/licenciaturas/IST/materias/OC/2011/10/07/520.pdf">Programación aplicada I</a></div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div><a href="http://fing.uach.mx/licenciaturas/IST/materias/IA/2011/10/10/423.pdf">Fotogrametría digital</a></div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div>Prácticas de fotogrametría digital</div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div><a href="http://fing.uach.mx/licenciaturas/IST/materias/IA/2011/10/10/627.pdf">Prácticas principios de geodesia geométrica</a></div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div><a href="http://fing.uach.mx/licenciaturas/IST/materias/IA/2011/10/10/724.pdf">Prácticas geodesia aplicada</a></div> 
+I.S.T. Fabricio Alan Madrigal Vázquez<div><br/></div> 
+I.S.T. Fabricio Alan Madrigal Vázquez

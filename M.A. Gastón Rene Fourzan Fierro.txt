@@ -1,0 +1,23 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a></a></div>
+<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/IB803%20-%20URBANISMO.pdf">Urbanismo</a></p>
+<p>Planificación urbana </p>
+</div>
+</div> 
+M.A. Gastón Rene Fourzan Fierro<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.A. Gastón Rene Fourzan Fierro<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.A. Gastón Rene Fourzan Fierro<div>tel. (614) 442 9500</div> 
+M.A. Gastón Rene Fourzan Fierro<div><br/></div> 
+M.A. Gastón Rene Fourzan Fierro<div><a></a></div> 
+M.A. Gastón Rene Fourzan Fierro<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/IB803%20-%20URBANISMO.pdf">Urbanismo</a></p>
+<p>Planificación urbana </p>
+</div> 
+M.A. Gastón Rene Fourzan Fierro

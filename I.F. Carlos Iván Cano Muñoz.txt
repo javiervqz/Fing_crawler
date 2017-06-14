@@ -1,0 +1,15 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<p><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/PE601%20-%20Control%20Estad%C3%ADstico%20de%20la%20Calidad.pdf" title="Control estadístico de calidad">Control estadístico de calidad</a></p>
+<p> </p>
+</div> 
+I.F. Carlos Iván Cano Muñoz<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.F. Carlos Iván Cano Muñoz<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.F. Carlos Iván Cano Muñoz<div>tel. (614) 442 9500</div> 
+I.F. Carlos Iván Cano Muñoz<div><br/></div> 
+I.F. Carlos Iván Cano Muñoz

@@ -1,0 +1,17 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a></a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2013/10/21/VT01%20-%20CONSERVACION%20DE%20CAMINOS.pdf" title="Conservación de caminos">Conservación de caminos</a></div>
+</div> 
+I.C. Sergio Adrián Domínguez Mendoza<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.C. Sergio Adrián Domínguez Mendoza<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.C. Sergio Adrián Domínguez Mendoza<div>tel. (614) 442 9500</div> 
+I.C. Sergio Adrián Domínguez Mendoza<div><br/></div> 
+I.C. Sergio Adrián Domínguez Mendoza<div><a></a></div> 
+I.C. Sergio Adrián Domínguez Mendoza<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2013/10/21/VT01%20-%20CONSERVACION%20DE%20CAMINOS.pdf" title="Conservación de caminos">Conservación de caminos</a></div> 
+I.C. Sergio Adrián Domínguez Mendoza

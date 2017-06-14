@@ -1,0 +1,12 @@
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.E. Marco Antonio Sánchez Vázquez<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.E. Marco Antonio Sánchez Vázquez<div>tel. (614) 442 9500</div> 
+I.E. Marco Antonio Sánchez Vázquez<div><br/></div> 
+I.E. Marco Antonio Sánchez Vázquez<div><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/CI417%20-%20An%C3%A1lisis%20de%20Circuitos%20El%C3%A9ctricos.pdf">Análisis de circuitos eléctricos</a></div> 
+I.E. Marco Antonio Sánchez Vázquez<div><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/LCI417%20-%20Laboratorio%20de%20An%C3%A1lisis%20de%20Circuitos%20El%C3%A9ctricos.pdf">Laboratorio de análisis de circuitos eléctricos</a></div> 
+I.E. Marco Antonio Sánchez Vázquez<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/PROGRAMACION.pdf">Programación</a></div> 
+I.E. Marco Antonio Sánchez Vázquez<div>Optativa: Instrumentación biomédica II</div> 
+I.E. Marco Antonio Sánchez Vázquez<div>Optativa: Sistemas de control II</div> 
+I.E. Marco Antonio Sánchez Vázquez<div>Tópicos selectos de Automatización</div> 
+I.E. Marco Antonio Sánchez Vázquez<div><br/></div> 
+I.E. Marco Antonio Sánchez Vázquez

@@ -1,0 +1,27 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a></a></div>
+<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IG/materias/PlanC/CB/2011/10/24/101-ALGEBRA%20SUPERIOR.pdf">Álgebra superior</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/31/IA801%20-%20An%C3%A1lisis%20Instrumental.pdf">Análisis instrumental</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/31/IA701%20-%20Ingenier%EDa%20Ambiental.pdf">Ingeniería ambiental</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/31/CI703%20-%20Ciencia%20de%20Materiales.pdf">Ciencia de materiales</a> </p>
+</div>
+</div> 
+D.C. Cesar González Valenzuela<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+D.C. Cesar González Valenzuela<div>Chihuahua, Chih., C.P. 31125, </div> 
+D.C. Cesar González Valenzuela<div>tel. (614) 442 9500</div> 
+D.C. Cesar González Valenzuela<div><br/></div> 
+D.C. Cesar González Valenzuela<div><a></a></div> 
+D.C. Cesar González Valenzuela<div>
+<p><a href="http://fing.uach.mx/licenciaturas/IG/materias/PlanC/CB/2011/10/24/101-ALGEBRA%20SUPERIOR.pdf">Álgebra superior</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/31/IA801%20-%20An%C3%A1lisis%20Instrumental.pdf">Análisis instrumental</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/31/IA701%20-%20Ingenier%EDa%20Ambiental.pdf">Ingeniería ambiental</a></p>
+<p><a href="http://fing.uach.mx/licenciaturas/IF/materias/2011/10/31/CI703%20-%20Ciencia%20de%20Materiales.pdf">Ciencia de materiales</a> </p>
+</div> 
+D.C. Cesar González Valenzuela

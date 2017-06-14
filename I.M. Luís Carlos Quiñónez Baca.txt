@@ -1,0 +1,17 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/CI605%20-%20Teor%C3%ADa%20de%20la%20Computaci%C3%B3n..pdf">Teoría de la computación</a></div>
+<div><br/></div>
+</div> 
+I.M. Luís Carlos Quiñónez Baca<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.M. Luís Carlos Quiñónez Baca<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.M. Luís Carlos Quiñónez Baca<div>tel. (614) 442 9500</div> 
+I.M. Luís Carlos Quiñónez Baca<div><br/></div> 
+I.M. Luís Carlos Quiñónez Baca<div><a href="http://fing.uach.mx/licenciaturas/IM/2015/03/06/CI605%20-%20Teor%C3%ADa%20de%20la%20Computaci%C3%B3n..pdf">Teoría de la computación</a></div> 
+I.M. Luís Carlos Quiñónez Baca<div><br/></div> 
+I.M. Luís Carlos Quiñónez Baca

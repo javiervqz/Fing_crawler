@@ -1,0 +1,17 @@
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.F. María Antonia Aragón de los Rios<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.F. María Antonia Aragón de los Rios<div>tel. (614) 442 9500 </div> 
+M.F. María Antonia Aragón de los Rios<div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/206%20-%20administracion%20.pdf">Administración</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/407%20-%20CONTABILIDAD.pdf">Contabilidad</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Taller%20emprendedor.pdf">Taller emprendedor</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2013/10/21/UN200%20-%20LENGUAJE%20Y%20COMUNICACION.pdf">Lenguaje y comunicación</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2013/10/21/UN316%20-%20UNIVERSIDAD%20Y%20CONOCIMIENTO.pdf">Universidad y conocimiento</a></div>
+</div> 
+M.F. María Antonia Aragón de los Rios<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/206%20-%20administracion%20.pdf">Administración</a></div> 
+M.F. María Antonia Aragón de los Rios<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/OC/2011/09/29/407%20-%20CONTABILIDAD.pdf">Contabilidad</a></div> 
+M.F. María Antonia Aragón de los Rios<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Taller%20emprendedor.pdf">Taller emprendedor</a></div> 
+M.F. María Antonia Aragón de los Rios<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2013/10/21/UN200%20-%20LENGUAJE%20Y%20COMUNICACION.pdf">Lenguaje y comunicación</a></div> 
+M.F. María Antonia Aragón de los Rios<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2013/10/21/UN316%20-%20UNIVERSIDAD%20Y%20CONOCIMIENTO.pdf">Universidad y conocimiento</a></div> 
+M.F. María Antonia Aragón de los Rios

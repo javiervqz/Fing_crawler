@@ -1,0 +1,14 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<div><br/></div>
+</div> 
+M.A. Rocio Alejandra Ramirez Lira<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.A. Rocio Alejandra Ramirez Lira<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.A. Rocio Alejandra Ramirez Lira<div>tel. (614) 442 9500</div> 
+M.A. Rocio Alejandra Ramirez Lira<div><br/></div> 
+M.A. Rocio Alejandra Ramirez Lira<div><br/></div> 
+M.A. Rocio Alejandra Ramirez Lira

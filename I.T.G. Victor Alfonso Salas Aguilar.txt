@@ -1,0 +1,17 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/211%20-%20PR%C3%81CTICAS%20DE%20TOPOGRAF%C3%8DA%20II.pdf">Prácticas de topografía II</a></div>
+<div><br/></div>
+</div> 
+I.T.G. Victor Alfonso Salas Aguilar<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+I.T.G. Victor Alfonso Salas Aguilar<div>Chihuahua, Chih., C.P. 31125, </div> 
+I.T.G. Victor Alfonso Salas Aguilar<div>tel. (614) 442 9500</div> 
+I.T.G. Victor Alfonso Salas Aguilar<div><br/></div> 
+I.T.G. Victor Alfonso Salas Aguilar<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/211%20-%20PR%C3%81CTICAS%20DE%20TOPOGRAF%C3%8DA%20II.pdf">Prácticas de topografía II</a></div> 
+I.T.G. Victor Alfonso Salas Aguilar<div><br/></div> 
+I.T.G. Victor Alfonso Salas Aguilar

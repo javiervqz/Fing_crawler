@@ -1,0 +1,23 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/2013/10/18/517%20-%20ANALISIS%20DE%20CIRCUITOS%20ELECTRICOS%20II.pdf">Análisis de circuitos eléctricos II</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/2013/10/18/747%20-%20CIRCUITOS%20L_GICOS%20I.pdf">Circuitos lógicos I</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IA/2011/09/29/313%20-%20ARQUITECTURA%20DE%20COMPUTADORAS%20I.pdf">Arquitectura de computadoras I</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/OPITP15%20-%20Automatizaci%C3%B3n%20y%20Rob%C3%B3tica.pdf">Optativa: Automatización robótica</a></div>
+<div><br/></div>
+</div> 
+M.C. Ana Yahaira Muñoz Gamboa<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.C. Ana Yahaira Muñoz Gamboa<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.C. Ana Yahaira Muñoz Gamboa<div>tel. (614) 442 9500</div> 
+M.C. Ana Yahaira Muñoz Gamboa<div><br/></div> 
+M.C. Ana Yahaira Muñoz Gamboa<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/2013/10/18/517%20-%20ANALISIS%20DE%20CIRCUITOS%20ELECTRICOS%20II.pdf">Análisis de circuitos eléctricos II</a></div> 
+M.C. Ana Yahaira Muñoz Gamboa<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/2013/10/18/747%20-%20CIRCUITOS%20L_GICOS%20I.pdf">Circuitos lógicos I</a></div> 
+M.C. Ana Yahaira Muñoz Gamboa<div><a href="http://fing.uach.mx/licenciaturas/ISCH/materias/IA/2011/09/29/313%20-%20ARQUITECTURA%20DE%20COMPUTADORAS%20I.pdf">Arquitectura de computadoras I</a></div> 
+M.C. Ana Yahaira Muñoz Gamboa<div><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/OPITP15%20-%20Automatizaci%C3%B3n%20y%20Rob%C3%B3tica.pdf">Optativa: Automatización robótica</a></div> 
+M.C. Ana Yahaira Muñoz Gamboa<div><br/></div> 
+M.C. Ana Yahaira Muñoz Gamboa

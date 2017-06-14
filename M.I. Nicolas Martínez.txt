@@ -1,0 +1,19 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/ADMINISTRACI%C3%93N%20DE%20PROYECTOS%20I.pdf">Administración de proyectos</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/SISTEMAS%20DE%20CALIDAD%20I.pdf">Sistemas de calidad</a></div>
+<div><br/></div>
+</div> 
+M.I. Nicolas Martínez<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.I. Nicolas Martínez<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.I. Nicolas Martínez<div>tel. (614) 442 9500</div> 
+M.I. Nicolas Martínez<div><br/></div> 
+M.I. Nicolas Martínez<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/ADMINISTRACI%C3%93N%20DE%20PROYECTOS%20I.pdf">Administración de proyectos</a></div> 
+M.I. Nicolas Martínez<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/SISTEMAS%20DE%20CALIDAD%20I.pdf">Sistemas de calidad</a></div> 
+M.I. Nicolas Martínez<div><br/></div> 
+M.I. Nicolas Martínez

@@ -1,0 +1,16 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<p>Introducción a la valuación</p>
+<p>Planificación urbana</p>
+<p> </p>
+</div> 
+M.A.C. Abelardo Casas Comaduran<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.A.C. Abelardo Casas Comaduran<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.A.C. Abelardo Casas Comaduran<div>tel. (614) 442 9500</div> 
+M.A.C. Abelardo Casas Comaduran<div><br/></div> 
+M.A.C. Abelardo Casas Comaduran

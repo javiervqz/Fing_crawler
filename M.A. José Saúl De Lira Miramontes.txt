@@ -1,0 +1,29 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500.</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a>Optativa: Desarrollo de aplicaciones multiplataforma</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Bases_de_Datos.pdf">Bases de datos</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/BD%202%20OPSW.pdf">Optativa: Bases de datos II</a></div>
+<div><a>Optativa: Inteligencia de negocios</a></div>
+<div>Diseño e implementación de base de datos para negocios</div>
+<div><a href="http://fing.uach.mx/posgrado/2012/06/12/Inteligencia%20de%20Negocios%20%28MICTS11%29.pdf">Inteligencia de negocios</a></div>
+<div><br/></div>
+</div> 
+M.A. José Saúl De Lira Miramontes<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+M.A. José Saúl De Lira Miramontes<div>Chihuahua, Chih., C.P. 31125, </div> 
+M.A. José Saúl De Lira Miramontes<div>tel. (614) 442 9500.</div> 
+M.A. José Saúl De Lira Miramontes<div><br/></div> 
+M.A. José Saúl De Lira Miramontes<div><a>Optativa: Desarrollo de aplicaciones multiplataforma</a></div> 
+M.A. José Saúl De Lira Miramontes<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/Bases_de_Datos.pdf">Bases de datos</a></div> 
+M.A. José Saúl De Lira Miramontes<div><a href="http://fing.uach.mx/licenciaturas/2014/03/25/BD%202%20OPSW.pdf">Optativa: Bases de datos II</a></div> 
+M.A. José Saúl De Lira Miramontes<div><a>Optativa: Inteligencia de negocios</a></div> 
+M.A. José Saúl De Lira Miramontes<div>Diseño e implementación de base de datos para negocios</div> 
+M.A. José Saúl De Lira Miramontes<div><a href="http://fing.uach.mx/posgrado/2012/06/12/Inteligencia%20de%20Negocios%20%28MICTS11%29.pdf">Inteligencia de negocios</a></div> 
+M.A. José Saúl De Lira Miramontes<div><br/></div> 
+M.A. José Saúl De Lira Miramontes<div><br/></div> 
+M.A. José Saúl De Lira Miramontes<div><br/></div> 
+M.A. José Saúl De Lira Miramontes

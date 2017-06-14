@@ -1,0 +1,21 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/PROGRAMA%20DE%20LABORATORIO%20DE%20ESTATICA_c.pdf">Laboratorio de estática</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/OC/2011/10/25/ESTATICAS.pdf">Estática</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2013/10/21/IA711%20INGENIERIA%20DE%20TRANSITO.pdf">Ingeniería de tránsito</a></div>
+<div><br/></div>
+</div> 
+L.C. María Selene Ruíz Rivero<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+L.C. María Selene Ruíz Rivero<div>Chihuahua, Chih., C.P. 31125, </div> 
+L.C. María Selene Ruíz Rivero<div>tel. (614) 442 9500</div> 
+L.C. María Selene Ruíz Rivero<div><br/></div> 
+L.C. María Selene Ruíz Rivero<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/PROGRAMA%20DE%20LABORATORIO%20DE%20ESTATICA_c.pdf">Laboratorio de estática</a></div> 
+L.C. María Selene Ruíz Rivero<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/OC/2011/10/25/ESTATICAS.pdf">Estática</a></div> 
+L.C. María Selene Ruíz Rivero<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2013/10/21/IA711%20INGENIERIA%20DE%20TRANSITO.pdf">Ingeniería de tránsito</a></div> 
+L.C. María Selene Ruíz Rivero<div><br/></div> 
+L.C. María Selene Ruíz Rivero

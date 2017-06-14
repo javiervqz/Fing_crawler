@@ -1,0 +1,23 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div>Seminario de investigación y desarrollo de tésis</div>
+<div>Seguridad de la información</div>
+<div>Marco legal de los negocios electrónicos</div>
+<div>Vinculación productiva (Practicum)</div>
+<div><br/></div>
+</div> 
+D.I. Roy Alonso Terrazas Marin<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+D.I. Roy Alonso Terrazas Marin<div>Chihuahua, Chih., C.P. 31125, </div> 
+D.I. Roy Alonso Terrazas Marin<div>tel. (614) 442 9500</div> 
+D.I. Roy Alonso Terrazas Marin<div><br/></div> 
+D.I. Roy Alonso Terrazas Marin<div>Seminario de investigación y desarrollo de tésis</div> 
+D.I. Roy Alonso Terrazas Marin<div>Seguridad de la información</div> 
+D.I. Roy Alonso Terrazas Marin<div>Marco legal de los negocios electrónicos</div> 
+D.I. Roy Alonso Terrazas Marin<div>Vinculación productiva (Practicum)</div> 
+D.I. Roy Alonso Terrazas Marin<div><br/></div> 
+D.I. Roy Alonso Terrazas Marin

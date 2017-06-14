@@ -1,0 +1,27 @@
+<div>
+<h4><strong>Información de contacto:</strong></h4>
+<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div>
+<div>Chihuahua, Chih., C.P. 31125, </div>
+<div>tel. (614) 442 9500</div>
+<div><br/></div>
+<h4><strong>Cursos impartidos:</strong></h4>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/AN%C3%81LISIS%20DE%20CIRCUITOS.pdf">Análisis de circuitos eléctricos</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/2013/05/27/CIENCIA%20AMBIENTAL.pdf">Ciencia ambiental</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/2011/10/25/LABORATORIO%20DE%20QUIMICA.pdf">Laboratorio de química general</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/104%20-%20QU%C3%8DMICA%20GENERAL.pdf">Química general</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/LCI417%20-%20Laboratorio%20de%20An%C3%A1lisis%20de%20Circuitos%20El%C3%A9ctricos.pdf">Laboratorio de análisis de circuitos eléctricos</a></div>
+<div><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/OPITP4%20-%20Optativa%20Termodin%C3%A1mica.pdf">Optativa: termodinámica</a></div>
+<div><br/></div>
+</div> 
+D.C. Raúl Sandoval Jabalera<div>Facultad de Ingeniería, UACH, Circuito No. 1, Campus Universitario 2, </div> 
+D.C. Raúl Sandoval Jabalera<div>Chihuahua, Chih., C.P. 31125, </div> 
+D.C. Raúl Sandoval Jabalera<div>tel. (614) 442 9500</div> 
+D.C. Raúl Sandoval Jabalera<div><br/></div> 
+D.C. Raúl Sandoval Jabalera<div><a href="http://fing.uach.mx/licenciaturas/IA/2012/08/06/AN%C3%81LISIS%20DE%20CIRCUITOS.pdf">Análisis de circuitos eléctricos</a></div> 
+D.C. Raúl Sandoval Jabalera<div><a href="http://fing.uach.mx/licenciaturas/IA/2013/05/27/CIENCIA%20AMBIENTAL.pdf">Ciencia ambiental</a></div> 
+D.C. Raúl Sandoval Jabalera<div><a href="http://fing.uach.mx/licenciaturas/IA/materias/2011/10/25/LABORATORIO%20DE%20QUIMICA.pdf">Laboratorio de química general</a></div> 
+D.C. Raúl Sandoval Jabalera<div><a href="http://fing.uach.mx/licenciaturas/IC/materias/2011/10/18/104%20-%20QU%C3%8DMICA%20GENERAL.pdf">Química general</a></div> 
+D.C. Raúl Sandoval Jabalera<div><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/LCI417%20-%20Laboratorio%20de%20An%C3%A1lisis%20de%20Circuitos%20El%C3%A9ctricos.pdf">Laboratorio de análisis de circuitos eléctricos</a></div> 
+D.C. Raúl Sandoval Jabalera<div><a href="http://fing.uach.mx/licenciaturas/ITP/2015/03/04/OPITP4%20-%20Optativa%20Termodin%C3%A1mica.pdf">Optativa: termodinámica</a></div> 
+D.C. Raúl Sandoval Jabalera<div><br/></div> 
+D.C. Raúl Sandoval Jabalera
