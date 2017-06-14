@@ -15,9 +15,8 @@ for link in links:
 	html = urllib.urlopen(profurl).read()
 	soup_prof = bs.BeautifulSoup(html, 'lxml')
 
-	for info in soup_prof.find_all('div'):
-		print (info.text)
-
+	for info in soup_prof.findAll("div", attrs ={'class' : None}):
+		print info.div
 
 
 
