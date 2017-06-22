@@ -17,8 +17,6 @@ if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
 i = 1.0
-finder = re.compile(r'\bInteligencia\b| \balgoritmos\b | \bcomputadora\b', flags = re.I | re.X)
-subjects = finder.findall(str(tag))
 for link in links:
 	prof_name = link.text_content()
 	completeName = os.path.join(output_dir, prof_name+".html")
