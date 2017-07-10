@@ -18,3 +18,4 @@ he/she may be working
 
 ## TO DO
 - [ ] Create a webapp using Flask or DJango, displaying the professor's picture, research and courses.
+- [ ] Export code to python3
